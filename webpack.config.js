@@ -10,6 +10,7 @@ module.exports = {
     contentBase: path.join(__dirname, '/docs'),
     stats: 'errors-only',
     publicPath: '/dist/',
+    watchContentBase: true
   },
   module: {
     rules: [
