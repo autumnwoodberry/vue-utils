@@ -9,6 +9,8 @@ Do this in your terminal:
 npm install @autumnwoodberry/vue-utils
 ```
 
+!> **Time** is money, my friend!
+
 ## browser
 
 Add the script to the head section:
